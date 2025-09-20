@@ -1,0 +1,18 @@
+{
+    "values": [
+    "minecraft:bedrock",
+    "minecraft:chest",
+    "minecraft:barrier",
+    "minecraft:spawner",
+    "minecraft:end_portal_frame",
+    "minecraft:obsidian",
+    "minecraft:water",
+    "minecraft:lava",
+    "minecraft:ender_chest",
+    "minecraft:shulker_box",
+    "minecraft:command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:chain_command_block",
+    "minecraft:enchanting_table"
+    ]
+  }

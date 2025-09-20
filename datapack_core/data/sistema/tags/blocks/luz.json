@@ -1,0 +1,18 @@
+{
+    "values": [
+    "minecraft:torch",
+    "minecraft:redstone_torch",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:fire",
+    "minecraft:soul_fire",
+    "minecraft:campfire",
+    "minecraft:soul_campfire",
+    "minecraft:end_rod",
+    "minecraft:shroomlight",
+    "minecraft:glowstone",
+    "minecraft:redstone_lamp",
+    "minecraft:sea_lantern",
+    "minecraft:sea_pickle"
+    ]
+  }
