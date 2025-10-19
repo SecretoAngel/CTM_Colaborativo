@@ -1,0 +1,9 @@
+execute if score @s 1_slot matches 0 run item replace entity @s hotbar.0 with bucket
+execute if score @s 1_slot matches 1 run item replace entity @s hotbar.1 with bucket
+execute if score @s 1_slot matches 2 run item replace entity @s hotbar.2 with bucket
+execute if score @s 1_slot matches 3 run item replace entity @s hotbar.3 with bucket
+execute if score @s 1_slot matches 4 run item replace entity @s hotbar.4 with bucket
+execute if score @s 1_slot matches 5 run item replace entity @s hotbar.5 with bucket
+execute if score @s 1_slot matches 6 run item replace entity @s hotbar.6 with bucket
+execute if score @s 1_slot matches 7 run item replace entity @s hotbar.7 with bucket
+execute if score @s 1_slot matches 8 run item replace entity @s hotbar.8 with bucket

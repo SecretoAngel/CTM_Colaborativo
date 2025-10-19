@@ -1,0 +1,10 @@
+execute if score @s 1_equilibrio matches 20 run title @s actionbar {"text":"§9§l||||||||||||||||||||§8§l||||||||||||||||||||"}
+execute if score @s 1_equilibrio matches 21 run title @s actionbar {"text":"§9§l|||||||||||||||||||||§8§l|||||||||||||||||||"}
+execute if score @s 1_equilibrio matches 22 run title @s actionbar {"text":"§9§l||||||||||||||||||||||§8§l||||||||||||||||||"}
+execute if score @s 1_equilibrio matches 23 run title @s actionbar {"text":"§9§l|||||||||||||||||||||||§8§l|||||||||||||||||"}
+execute if score @s 1_equilibrio matches 24 run title @s actionbar {"text":"§9§l||||||||||||||||||||||||§8§l||||||||||||||||"}
+execute if score @s 1_equilibrio matches 25 run title @s actionbar {"text":"§9§l|||||||||||||||||||||||||§8§l|||||||||||||||"}
+execute if score @s 1_equilibrio matches 26 run title @s actionbar {"text":"§9§l||||||||||||||||||||||||||§8§l||||||||||||||"}
+execute if score @s 1_equilibrio matches 27 run title @s actionbar {"text":"§9§l|||||||||||||||||||||||||||§8§l|||||||||||||"}
+execute if score @s 1_equilibrio matches 28 run title @s actionbar {"text":"§9§l||||||||||||||||||||||||||||§8§l||||||||||||"}
+execute if score @s 1_equilibrio matches 29 run title @s actionbar {"text":"§9§l|||||||||||||||||||||||||||||§8§l|||||||||||"}

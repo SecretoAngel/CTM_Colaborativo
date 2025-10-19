@@ -1,0 +1,2 @@
+execute unless entity @s[nbt={SelectedItem:{id:"minecraft:bucket",count:1}}] run function taller_cromatico:equilibrio/ini_error
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:bucket",count:1}}] run function taller_cromatico:equilibrio/ini_2
